@@ -54,6 +54,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
     private List<Fragment> mFragmentList;
 	private final String TAG = "MainActivity";
 
+	// for test git update 20180802
     @Override
     protected void onCreate(Bundle savedInstanceState) {
     	Log.i(TAG, "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"+TAG);
